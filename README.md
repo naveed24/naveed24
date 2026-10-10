@@ -7,10 +7,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3200&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=740&amp;lines=Java+21+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+PostgreSQL+%7C+Redis;Backend+Engineering+%7C+Cloud+%7C+DevOps" alt="Java, Spring Boot, distributed systems, cloud and DevOps" />
 
-  <p>
-    <img src="https://img.shields.io/badge/📍_Hyderabad-India-164E63?style=flat-square" alt="Based in Hyderabad, India" />
-    <img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-0369A1?style=flat-square" alt="Focus: backend and distributed systems" />
-  </p>
+  <p><strong>📍 Hyderabad, India &nbsp; | &nbsp; ⚙️ Backend &amp; Distributed Systems</strong></p>
 
   <h2>🤝 Let's Connect</h2>
   <p>Open to Java Backend, Full Stack, and Cloud Engineering opportunities.</p>
