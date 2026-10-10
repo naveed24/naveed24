@@ -28,7 +28,7 @@
     </a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=naveed24&color=0891b2&style=flat-square" alt="Profile views counter" />
+    <a href="https://hits.sh/github.com/naveed24/"><img src="https://hits.sh/github.com/naveed24.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=0891b2&amp;labelColor=161B22" alt="Live GitHub profile view count" /></a>
   </p>
 </div>
 
