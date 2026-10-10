@@ -23,8 +23,12 @@
   <p><em>Have an opportunity or a project in mind? I'd love to connect.</em></p>
 
   <p>
-    <a href="https://github.com/naveed24?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-    <img src="https://komarev.com/ghpvc/?username=naveed24&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+    <a href="https://github.com/naveed24?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+    </a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=naveed24&color=0891b2&style=flat-square" alt="Profile views counter" />
   </p>
 </div>
 
