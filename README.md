@@ -81,7 +81,21 @@ I'm a **Java Backend / Full Stack Developer** interested in creating reliable AP
 
 ## 🤝 Let's connect
 
-I'm interested in collaborating on **backend, cloud, and distributed-systems projects**. Explore my repositories or reach out through my [GitHub profile](https://github.com/naveed24).
+I'm open to opportunities and collaborations in **Java Backend, Full Stack, Cloud, and Distributed Systems**. Feel free to connect with me on LinkedIn or reach out by email!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
+  </a>
+  <a href="mailto:naveedshareef.shaik24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/">LinkedIn</a> ·
+  <a href="mailto:naveedshareef.shaik24@gmail.com">naveedshareef.shaik24@gmail.com</a>
+</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1221,50:115E98,100:0891B2" alt="Decorative footer" />
