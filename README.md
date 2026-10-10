@@ -5,6 +5,23 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3300&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+robust+Spring+Boot+microservices;Designing+event-driven+distributed+systems;Learning%2C+shipping%2C+and+improving+every+day" alt="Animated developer introduction" />
 
+  <!-- Recruiter-friendly contact links, placed above the fold -->
+  <h2>🤝 Let's Connect &amp; Collaborate</h2>
+  <p><strong>Open to Java Backend &bull; Full Stack &bull; Cloud Engineering opportunities</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Let's Connect" height="34" />
+    </a>
+    &nbsp;
+    <a href="mailto:naveedshareef.shaik24@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail — Say Hello" height="34" />
+    </a>
+  </p>
+  <p>
+    <a href="mailto:naveedshareef.shaik24@gmail.com"><strong>📩 naveedshareef.shaik24@gmail.com</strong></a>
+  </p>
+  <p><em>Have an opportunity or a project in mind? I'd love to connect.</em></p>
+
   <p>
     <a href="https://github.com/naveed24?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
     <img src="https://komarev.com/ghpvc/?username=naveed24&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
@@ -78,24 +95,6 @@ I'm a **Java Backend / Full Stack Developer** interested in creating reliable AP
 </div>
 
 > GitHub cards show repository activity and language distribution, not a measure of proficiency. External badge and statistics services may occasionally be unavailable.
-
-## 🤝 Let's connect
-
-I'm open to opportunities and collaborations in **Java Backend, Full Stack, Cloud, and Distributed Systems**. Feel free to connect with me on LinkedIn or reach out by email!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
-  </a>
-  <a href="mailto:naveedshareef.shaik24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/">LinkedIn</a> ·
-  <a href="mailto:naveedshareef.shaik24@gmail.com">naveedshareef.shaik24@gmail.com</a>
-</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1221,50:115E98,100:0891B2" alt="Decorative footer" />
