@@ -13,14 +13,16 @@
   <p>Open to Java Backend, Full Stack, and Cloud Engineering opportunities.</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
+    <a href="https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/" title="Connect on LinkedIn">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn profile" />
     </a>
-    <a href="mailto:naveedshareef.shaik24@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" />
+    &nbsp;&nbsp;
+    <a href="mailto:naveedshareef.shaik24@gmail.com" title="Send me an email">
+      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email me on Gmail" />
     </a>
-    <a href="https://github.com/naveed24?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" />
+    &nbsp;&nbsp;
+    <a href="https://github.com/naveed24?tab=repositories" title="Explore my GitHub projects">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub projects" />
     </a>
   </p>
 
