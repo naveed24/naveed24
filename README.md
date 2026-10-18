@@ -1,4 +1,16 @@
 <!-- GitHub profile README | naveed24 -->
+### 🚀 OPEN TO WORK | Junior Java Backend / Spring Boot Developer
+
+**~1 year of professional experience • Java • Spring Boot • REST APIs • SQL • Microservices**
+
+I'm actively interviewing for **Java Backend Developer, Spring Boot Developer, or Software Engineer** opportunities (0–3 years) in **Hyderabad, Bengaluru, or remote India**. Open to **full-time, contract, and contract-to-hire** roles.
+
+**Recruiters / hiring managers:** [Email me](mailto:naveedshareef.shaik24@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/naveed-shareef-shaik-99bb87341/) · [See my projects](https://github.com/naveed24?tab=repositories)
+
+I would be grateful for a **technical interview, coding assessment, or referral**. Previous experience: **Cloud4c Services (Aug 2024–Jul 2025)**. Projects include **AegisPay (Kafka-backed payment processing)** and a **Digital Banking microservices platform**.
+
+---
+
 <div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0B1221,50:155E75,100:0891B2&amp;text=Naveed%20Shareef&amp;fontColor=FFFFFF&amp;fontSize=50&amp;fontAlignY=38&amp;desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20%7C%20Distributed%20Systems&amp;descSize=17&amp;descAlignY=60" alt="Naveed Shareef — Java Backend and Full Stack Developer" />
