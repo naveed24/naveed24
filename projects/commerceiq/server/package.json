@@ -1,0 +1,1 @@
+{"name":"commerceiq-server","version":"1.0.0","type":"module","private":true,"engines":{"node":">=22.13.0"},"scripts":{"dev":"node --watch src/app.js","start":"node src/app.js","test":"node --test"}}
